@@ -8,4 +8,8 @@ but this is own code for getting favicons
 
 works both http and https 
 
+Change the URL in index.php of $site var.
+
+make sure URL should be very clean for example : http://www.google.com/
+
 
